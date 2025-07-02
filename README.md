@@ -6,19 +6,27 @@ Welcome to the CSE475: Machine Learning assignment repository. This repo include
 CSE475 introduces key ML techniques including:
 
 Supervised and Unsupervised Learning
+
 Self supervised and semi supervisedLearning
+
 Regression and Classification Models
+
 Decision Trees, SVMs, CNN,ANN and Neural Networks
+
 Dimensionality Reduction and Clustering
+
 Model Evaluation and Performance Metrics
 
 🛠️Technologies Used
 
 Python 
+
 NumPy, pandas, matplotlib
+
 Jupyter Notebook / Kaggle Notebooks
 
 📁 Lab Contributions
+
 Projects in this repository include both individual and group collaborations, depending on the lab nature. Contributions are acknowledged transparently.
 
 👥 Group Members
