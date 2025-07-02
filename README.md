@@ -22,7 +22,11 @@ Jupyter Notebook / Kaggle Notebooks
 Projects in this repository include both individual and group collaborations, depending on the lab nature. Contributions are acknowledged transparently.
 
 👥 Group Members
+
 Shairin Akter Hashi
+
 Nusrat Jaben Aurnima
+
 Zihad Khan
+
 MD Shahrukh Hossain Shihab
